@@ -22,6 +22,8 @@
 
 最后点击这里，系统会输出**高质量的最终结果**。
 
+**注意！**点击这个按钮之后你得到的结果的画质比你预览的时候看到的**画质高十倍！**
+
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/6.png)
 
 教程结束。下面是一些常见问题。
