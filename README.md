@@ -78,6 +78,30 @@
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/18.png)
 
+低质量的预览：
+
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/19.png)
+
+线稿：
+
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/20.png)
+
+线稿（全自动渲染后的线稿）：
+
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/21.png)
+
+初步固有色：
+
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/22.png)
+
+精细固有色：
+
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/23.png)
+
+结果（线稿有变色）：
+
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/24.png)
+
 # 我要如何保存我的提示点呢？
 
 很简单，点击这里就好了。点开这个小三角。
