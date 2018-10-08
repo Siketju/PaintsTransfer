@@ -26,7 +26,21 @@
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/6.png)
 
-教程结束。下面是一些常见问题。
+教程结束。
+
+# 大图
+
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/8.png)
+
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/9.png)
+
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/10.png)
+
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/11.png)
+
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/12.png)
+
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/13.png)
 
 # 我要如何保存我的提示点呢？
 
