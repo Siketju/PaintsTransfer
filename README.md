@@ -1,4 +1,4 @@
-# 这里是PaintsTransfer的超级傻瓜教程
+# 这里是PaintsTransfer的超级简单的超级傻瓜的教程
 
 这里是PaintsTransfer3.2最新版的教程。超级超级傻瓜和简单。基本上你只需要一分钟就可以读完了。
 
