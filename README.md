@@ -30,15 +30,27 @@
 
 # 大图
 
+低质量的预览：
+
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/8.png)
+
+线稿：
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/9.png)
 
+线稿（全自动渲染后的线稿）：
+
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/10.png)
+
+初步固有色：
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/11.png)
 
+精细固有色：
+
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/12.png)
+
+结果（线稿有变色）：
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/13.png)
 
