@@ -38,19 +38,19 @@
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/9.png)
 
-线稿（全自动渲染后的线稿）：
+线稿（全自动渲染后的线稿）：2048 \* 4096
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/10.png)
 
-初步固有色：
+初步固有色：2048 \* 4096
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/11.png)
 
-精细固有色：
+精细固有色：2048 \* 4096
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/12.png)
 
-结果（线稿有变色）：
+结果（线稿有变色）：2048 \* 4096
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/13.png)
 
