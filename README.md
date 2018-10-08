@@ -54,7 +54,7 @@
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/13.png)
 
-低质量的预览：
+低质量的预览： **少量提示点**
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/13b.png)
 
@@ -78,7 +78,7 @@
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/18.png)
 
-低质量的预览：
+低质量的预览： **无提示点！**
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/19.png)
 
