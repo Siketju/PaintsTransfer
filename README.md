@@ -50,9 +50,13 @@
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/12.png)
 
+高级固有色，这张图可以直接厚涂：2048 \* 4096
+
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/013.png)
+
 结果（线稿有变色）：2048 \* 4096
 
-![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/13.png)
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/014.png)
 
 低质量的预览： **少量提示点**
 
