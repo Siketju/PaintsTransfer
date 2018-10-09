@@ -52,7 +52,7 @@
 
 高级固有色，这张图可以直接厚涂：2048 \* 4096
 
-![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/013.png)
+![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/013.jpg)
 
 结果（线稿有变色）：2048 \* 4096
 
