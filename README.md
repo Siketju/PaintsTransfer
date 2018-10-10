@@ -1,4 +1,10 @@
-﻿# 这里是PaintsTransfer的超级简单的超级傻瓜的教程
+# Selecting your language / 言語選択
+
+[English](https://github.com/lllyasviel/PaintsTransfer/blob/master/README_en.md)
+
+日本语 (Not finished yet.)
+
+# 这里是PaintsTransfer的超级简单的超级傻瓜的教程
 
 首先，APP的网址是：
 
