@@ -1,130 +1,108 @@
-﻿# 这里是PaintsTransfer的超级简单的超级傻瓜的教程
+# This is a very simple and easy document for PaintsTransfer
 
-首先，APP的网址是：
+First of all, our APP is here:
 
 http://paintstransfer.com/
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/1.png)
 
-这里是PaintsTransfer3.2最新版的教程。超级超级傻瓜和简单。基本上你只需要一分钟就可以读完了。
+This is a very simple and easy document for PaintsTransfer. You can finish this document in one minute.
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/2.png)
 
-首先你用这个按钮上传线稿。
+Firstly, you can upload the line drawing with this button.
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/3.png)
 
-然后你在左边挑选一个你比较喜欢的画师。
+Then, you select an artist on the left. Or you can upload a reference image.
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/4.png)
 
-然后随便画一点给点颜色的提示，当然你要是懒也**可以跳过这一步**。你添加提示点的过程中，系统会实时生成**低质量的预览。**
+Then you can add some hints by drawing some color on the canvas. If you are lazy, you can skip this step.
 
-**记住：左键绘画，右键或者中键移动画布，滚轮缩放，ALT键吸色。**
+You will get some **low-quality** preview when you are adding hints.
+
+**Left mouse button: add hints.**
+
+**Mouse wheel : resize the canvas.**
+
+**Right mouse button: move the canvas.**
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/5.png)
 
-最后点击这里，系统会输出**高质量的最终结果**。
+Finally you should click the "brain" button here to output the final result.
 
-**注意！你预览的时候看到的结果和最终结果是不同的！最终结果比预览结果要好很多。**
+**Keep in mind that the preview is (!!!!!!!) NOT (!!!!!!!) the final result!**
 
-教程结束。
+**We add the low-quality preview to improve the user-experience, and to give you some feedbacks when you are adding hints. But the preview is of very low quality and this is definately NOT the best performance of PaintsTransfer. You really should click the "brain" button to see the high-quality result.**
+
+The one minute document is end. You can enjoy now.
 
 # 大图
 
-低质量的预览：
+The low-quality preview:
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/8.png)
 
-线稿：
+Line drawing:
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/9.png)
 
-线稿（全自动渲染后的线稿）：2048 \* 4096
+Line drawing (after our fully automatic rendering): 2048 \* 4096
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/10.png)
 
-初步固有色：2048 \* 4096
+Low-quality solid color: 2048 \* 4096
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/11.png)
 
-精细固有色：2048 \* 4096
+Solid color: 2048 \* 4096
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/12.png)
 
-高级固有色，这张图可以直接厚涂：2048 \* 4096
+Final high-quality solid color with no lines: 2048 \* 4096
+
+You can import this to photoshop to speed up your digital painting.
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/013.jpg)
 
-结果（线稿有变色）：2048 \* 4096
+Result: 2048 \* 4096
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/014.png)
 
-低质量的预览： **少量提示点**
-
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/13b.png)
-
-线稿：
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/14.png)
 
-线稿（全自动渲染后的线稿）：
-
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/15.png)
-
-初步固有色：
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/16.png)
 
-精细固有色：
-
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/17.png)
-
-结果（线稿有变色）：
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/18.png)
 
-低质量的预览： **无提示点！**
-
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/19.png)
-
-线稿：
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/20.png)
 
-线稿（全自动渲染后的线稿）：
-
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/21.png)
-
-初步固有色：
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/22.png)
 
-精细固有色：
-
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/23.png)
-
-结果（线稿有变色）：
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/24.png)
 
-# 我要如何保存我的提示点呢？
+# How can I save my hints?
 
-很简单，点击这里就好了。点开这个小三角。
+It is easy. You can click the small triangle here and use the two buttons.
 
 ![p1](https://raw.githubusercontent.com/style2paints/style2paints.github.io/master/img2/7.png)
 
-会有两个小按钮。一个是下载文本形式的提示点。一个是上传文本形式的提示点。你可以这样随时保存你的工作。
+You will get a text file if you click download button, and you will be asked to input some text code if you click the upload button. You can save and load your hints in this way.
 
-# 结果能分层吗？我只要一个固有色。
+# Why my results are blank?
 
-输出结果后，在下载页面会有5个输出的图片，最后一个就是固有色，拿去用吧。别再问能不能分层了。
-
-# 为啥我的输出是空白？
-
-请不要使用火狐浏览器。
-
-# 为啥我的画板无法移动？
-
-请卸载你的垃圾360浏览器。请记住360浏览器是流氓软件。请使用Edge或者Chrome。
+Do not use firefox.
 
