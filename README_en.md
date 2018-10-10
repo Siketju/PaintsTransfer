@@ -38,7 +38,7 @@ Finally you should click the "brain" button here to output the final result.
 
 The one minute document is end. You can enjoy now.
 
-# 大图
+# Example
 
 The low-quality preview:
 
